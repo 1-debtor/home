@@ -14,11 +14,11 @@
     "name": "音乐",
     "link": "https://music.imsyy.top/"
   },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
+  #{
+    #"icon": "Compass",
+    #"name": "起始页",
+    #"link": "https://nav.imsyy.top/"
+  #},
   {
     "icon": "Book",
     "name": "网址集",
